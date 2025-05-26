@@ -99,3 +99,15 @@ Each exercise is organized by topic or chapter for clarity.
 ## 🚀 Requirements
 
 No technical prerequisites are required. A code editor (like VS Code) and Node.js are recommended to run the code locally.
+
+
+---
+
+⚠️ **Mention légale / Legal Notice**
+
+Ce dépôt contient du code personnel réalisé à partir du cours [Apprenez à programmer avec JavaScript](https://openclassrooms.com/fr/courses/7696886-apprenez-a-programmer-avec-javascript) proposé par OpenClassrooms.  
+Le contenu pédagogique original (textes, vidéos, consignes exactes) n’est pas reproduit ici.
+
+This repository contains personal code written while following the [Learn to Program with JavaScript](https://openclassrooms.com/en/courses/7696886-learn-to-program-with-javascript) course by OpenClassrooms.  
+Original pedagogical content (such as text, videos, or exact instructions) is not reproduced here.
+
