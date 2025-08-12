@@ -37,3 +37,12 @@ function lancerJeu() {
     }
     afficherResultat(score, nbMotsProposes)
 }
+
+let baliseZoneProposition = document.getElementById("zoneProposition");
+console.log(baliseZoneProposition)
+
+let baliseZonePropositionSpan = document.querySelector("#zoneProposition span");
+console.log(baliseZonePropositionSpan);
+
+let listeInputRadio = document.querySelectorAll(".zoneChoix input");
+console.log(listeInputRadio);
